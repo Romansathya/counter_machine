@@ -1,0 +1,17 @@
+.container{
+    background-color:red;
+    margin: 20px;
+    padding: 30px;
+    background-size: cover;
+    text-align:center;
+
+}
+.head{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
+#para{
+    font-size:60px;
+}
